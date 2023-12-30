@@ -1,0 +1,93 @@
+[
+  {
+    "startLocation": {
+      "description": "Hà Nội, VN",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "Số 31 Hàng Phèn - Hoàn Kiếm - Hà Nội - VN"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["phuquoc-1.jpg", "phuquoc-2.jpg", "phu quoc-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2956",
+    "name": "Tour Du lịch Phú Quốc",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 4700000,
+    "summary": "Bờ Đông Đảo - Lặn ngắm san hô - Cáp treo hòn Thơm - Câu mực đêm",
+    "description": "Đầu tiên có lẽ phải kể đến đó chính là vẻ đẹp của các bãi biển với một khung cảnh rất đỗi hoang sơ, mộc mạc và giản dị nhưng lại khiến con người ta phải cuốn vào nó, đắm đuối chìm đắm trong vẻ đẹp hoang dại ấy đến điên cuồng. Sau đó là đến những địa điểm thú vị ở đây nào là Suối Tranh, làng chài Hàm Ninh, Dinh Cậu, Mũi Gành Dầu, chùa Hộ Quốc, nhà tù Phú Quốc, trang trại nuôi ong,vv… có thể nói tất cả những địa điểm đó đều mang một nét gì đó rất gần gũi, thân quen khiến con người ta phải lòng ngay từ lần đầu đặt chân đến…rồi chúng tôi còn được đến tham quan cả Safari Phú Quốc-vườn thú bán hoang dã đầu tiên của Việt Nam một địa điểm khám phá thế giới động vật vô cùng độc đáo tất cả như mở ra trước mắt chúng tôi một thế giới vô cùng mới lạ mà khi vừa gặp đã muốn khám phá ngay chúng và tất nhiên khi rời bước ra đi thì quyến luyến mãi chẳng muốn rời.",
+    "imageCover": "phuquoc-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Đón sân bay Phú Quốc - Làng chài Hàm Ninh - Vườn tiêu - Chợ đêm Phú Quốc",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Khám phá đảo đẹp nhất Phú quốc - Lặn ngắm san hô - Cáp treo hòn Thơm",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Tham quan phía Nam đảo - Lặn ngắm san hô Nam đảo - Câu mực đêm",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Phú Quốc tự do - Tiễn bay",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Hà Nội, VN",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "Số 31 Hàng Phèn - Hoàn Kiếm - Hà Nội - VN"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["halong-1.jpg", "halong-2.jpg", "halong-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Tour Du lịch Hạ Long",
+    "duration": 1,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 700000,
+    "summary": "Khám phá hang động to nhất vịnh Hạ Long và ngắm nhìn hàng trăm đảo đá",
+    "description": "Ngoài việc thăm quan khám phá những hang động to nhất vịnh Hạ Long, quý khách sẽ được ngắm nhìn hàng trăm đảo đá, mỗi đảo mang một hình dáng khác nhau hết sức sinh động: hòn Đầu Người, hòn Rồng, hòn Lã Vọng, hòn Cánh Buồm, hòn Gà Chọi, hòn Lư Hương... Đó thực sự là những lâu đài của tạo hóa giữa trốn trần gian.",
+    "imageCover": "halong-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Động Thiên Cung - Làng Chài Ba Hang",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 1
+      }
+    ]
+  }
+]

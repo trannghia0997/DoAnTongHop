@@ -1,0 +1,71 @@
+extends base
+
+block append head
+  link(href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css', rel='stylesheet',type='text/css')
+
+mixin overviewBox(label, text, icon)
+  .overview-box__detail
+    svg.overview-box__icon
+      use(xlink:href=`/img/icons.svg#icon-${icon}`)
+    span.overview-box__label= label
+    span.overview-box__text= text
+
+block content 
+    .about-us
+      h1 Chào Mừng Đến Với
+      h1 BKTRAVEL COMPANY
+      .container12
+          h3 Giới Thiệu Công Ty BKTRAVEL:
+          p
+            | Công Ty Du Lịch Chúng Tôi Cung Cấp Trải Nghiệm Du Lịch Đa Dạng Và Chất Lượng Cao, Từ Các Tour Tham Quan Đến Các Dịch Vụ Đặt Phòng Và Hỗ Trợ Khách Hàng 24/7. Chúng Tôi Cam Kết Mang Đến Cho Khách Hàng Những Hành Trình Đầy Hứng Khởi Và Những Kỷ Niệm Đáng Nhớ Trên Mọi Chuyến Đi. Công Ty Du Lịch Của Chúng Tôi Tập Trung Vào Việc Tạo Ra Những Trải Nghiệm Du Lịch Độc Đáo Và Không Quên, Kết Hợp Giữa Sự Phiêu Lưu Và Thoải Mái. Chúng Tôi Cung Cấp Các Tour Du Lịch Đa Dạng, Từ Những Điểm Đến Phổ Biến Đến Những Địa Điểm Mới Lạ, Cung Cấp Dịch Vụ Chuyên Nghiệp Và Chu Đáo Nhằm Đáp Ứng Mọi Nhu Cầu Của Khách Hàng. Sứ Mệnh Của Chúng Tôi Là Mang Đến Trải Nghiệm Du Lịch Tuyệt Vời, Giúp Du Khách Khám Phá Và Tận Hưởng Vẻ Đẹp Của Thế Giới Một Cách An Toàn Và Thoải Mái Nhất.
+      .image12
+        img(src='img/aboutus1.png')
+      .image14
+        img(src='img/aboutus2.png')
+      .wrapper12
+        h3 Các Sản Phẩm Và Dịch Vụ Của Công Ty Bao Gồm:
+            p
+            | 1. Tour Du Lịch Đa Dạng: Cung Cấp Các Gói Tour Đặc Biệt
+            br
+            | Điểm Đến Khác Nhau, Từ Tour Tham Quan Thành Phố
+            br
+            | Đến Các Kỳ Nghỉ Nghỉ Dưỡng Tại Bãi Biển, Hoặc Các Tour
+            br
+            | Mạo Hiểm Và Khám Phá.
+            p
+            | 2. Đặt Phòng Và Chăm Sóc Khách Hàng: Hỗ Trợ Đặt Phòng
+            br
+            | Khách Sạn, Resort, Nhà Nghỉ Theo Yêu Cầu
+            br
+            | Của Khách Hàng Và Cung Cấp Dịch Vụ Chăm Sóc
+            br
+            | Khách Hàng 24/7.
+            p
+            | 3. Dịch Vụ Hướng Dẫn Viên: Cung Cấp Hướng Dẫn Viên
+            br
+            | Chuyên Nghiệp, Ngôn Ngữ Đa Dạng Để Hỗ Trợ Và Giải
+            br
+            | Đáp Mọi Thắc Mắc Cho Du Khách Trong Suốt Hành Trình
+            br
+            | Du Lịch.
+            p
+            | 4. Dịch Vụ Vận Chuyển: Cung Cấp Các Lựa Chọn Vận Chuyển
+            br
+            | Đa Dạng Bao Gồm Xe Ô Tô, Xe Bus, Máy Bay, Tàu Hoặc
+            br
+            | Các Phương Tiện Di Chuyển Khác, Đảm Bảo Sự Tiện Lợi Và
+            br
+            | An Toàn Cho Du Khách.
+            p
+            | 5. Gói Dịch Vụ Cá Nhân Hóa: Tư Vấn Và Thiết Kế Tour Cá
+            br
+            | Nhân, Đáp Ứng Nhu Cầu Riêng Biệt Của Từng Khách Hàng,
+            br
+            | Bao Gồm Việc Tổ Chức Các Hoạt Động, Đặc Sản Ẩm Thực,
+            br
+            | Hoặc Các Trải Nghiệm Du Lịch Độc Đáo Theo Yêu Cầu.
+      .wait12
+        h2 BẠN CÒN CHỜ GÌ NỮA?
+        h3
+          | 1 cuộc phiêu lưu, những kỉ niệm đẹp. Hãy biến những thứ đó thành của bạn.
+          a(href='#') BOOK TOUR NOW!
