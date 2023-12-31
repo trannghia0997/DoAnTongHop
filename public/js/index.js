@@ -60,9 +60,8 @@ if (userPasswordForm)
     document.getElementById('password-confirm').value = '';
   });
 
-if (bookBtn)
-  bookBtn.addEventListener('click', e => {
-    e.target.textContent = 'Processing...';
-    const { tourId } = e.target.dataset;
-    bookTour(tourId);
-  });
+document.getElementById('book-tour').addEventListener('click', e => {
+  e.target.textContent = 'Processing...';
+  const { tourId } = e.target.dataset;
+  bookTour(tourId);
+});

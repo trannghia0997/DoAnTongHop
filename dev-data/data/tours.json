@@ -1,135 +1,79 @@
 [
   {
     "startLocation": {
-      "description": "Hà Nội, VN",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-80.185942, 25.774772],
-      "address": "Số 31 Hàng Phèn - Hoàn Kiếm - Hà Nội - VN"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 4.8,
     "ratingsQuantity": 6,
-    "images": ["phuquoc-1.jpg", "phuquoc-2.jpg", "phu quoc-3.jpg"],
-    "startDates": [
-      "2021-06-19T09:00:00.000Z",
-      "2021-07-20T09:00:00.000Z",
-      "2021-08-18T09:00:00.000Z"
-    ],
-    "_id": "5c88fa8cf4afda39709c2956",
-    "name": "Tour Du lịch Phú Quốc",
-    "duration": 4,
-    "maxGroupSize": 15,
-    "difficulty": "medium",
-    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
-    "price": 4700000,
-    "summary": "Bờ Đông Đảo - Lặn ngắm san hô - Cáp treo hòn Thơm - Câu mực đêm",
-    "description": "Đầu tiên có lẽ phải kể đến đó chính là vẻ đẹp của các bãi biển với một khung cảnh rất đỗi hoang sơ, mộc mạc và giản dị nhưng lại khiến con người ta phải cuốn vào nó, đắm đuối chìm đắm trong vẻ đẹp hoang dại ấy đến điên cuồng. Sau đó là đến những địa điểm thú vị ở đây nào là Suối Tranh, làng chài Hàm Ninh, Dinh Cậu, Mũi Gành Dầu, chùa Hộ Quốc, nhà tù Phú Quốc, trang trại nuôi ong,vv… có thể nói tất cả những địa điểm đó đều mang một nét gì đó rất gần gũi, thân quen khiến con người ta phải lòng ngay từ lần đầu đặt chân đến…rồi chúng tôi còn được đến tham quan cả Safari Phú Quốc-vườn thú bán hoang dã đầu tiên của Việt Nam một địa điểm khám phá thế giới động vật vô cùng độc đáo tất cả như mở ra trước mắt chúng tôi một thế giới vô cùng mới lạ mà khi vừa gặp đã muốn khám phá ngay chúng và tất nhiên khi rời bước ra đi thì quyến luyến mãi chẳng muốn rời.",
-    "imageCover": "phuquoc-cover.jpg",
-    "locations": [
-      {
-        "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Đón sân bay Phú Quốc - Làng chài Hàm Ninh - Vườn tiêu - Chợ đêm Phú Quốc",
-        "type": "Point",
-        "coordinates": [10.315437, 104.009701],
-        "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Khám phá đảo đẹp nhất Phú quốc - Lặn ngắm san hô - Cáp treo hòn Thơm",
-        "type": "Point",
-        "coordinates": [10.273601, 104.036595],
-        "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Tham quan phía Nam đảo - Lặn ngắm san hô Nam đảo - Câu mực đêm",
-        "type": "Point",
-        "coordinates": [10.273601, 104.036595],
-        "day": 3
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Phú Quốc tự do - Tiễn bay",
-        "type": "Point",
-        "coordinates": [10.273601, 104.036595],
-        "day": 4
-      }
-    ]
-  },
-  {
-    "startLocation": {
-      "description": "Miami, USA",
-      "type": "Point",
-      "coordinates": [-80.185942, 25.774772],
-      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
-    },
-    "ratingsAverage": 4.8,
-    "ratingsQuantity": 6,
-    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "images": ["phuquoc-1.jpg", "phuquoc-2.jpg", "phuquoc-3.jpg"],
     "startDates": [
       "2021-06-19T09:00:00.000Z",
       "2021-07-20T09:00:00.000Z",
       "2021-08-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2955",
-    "name": "The Sea Explorer",
-    "duration": 7,
+    "name": "Explore Phu Quoc",
+    "duration": 4,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
-    "price": 497,
-    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    "imageCover": "tour-2-cover.jpg",
+    "price": 4700000,
+    "summary": "East Island Coast - Coral reef diving - Hon Thom cable car - Night squid fishing.",
+    "description": "First, I should mention the beauty of the beaches with a very wild, rustic, and simple scenery that captivates people, making them deeply immersed in the untamed beauty, almost to the point of obsession. Then, there are interesting places here such as Suoi Tranh, Ham Ninh fishing village, Dinh Cau, Ganh Dau Cape, Ho Quoc Pagoda, Phu Quoc Prison, bee farm, and more. It can be said that all these places have a very familiar and friendly charm that captures people's hearts from the first step. We also had the chance to visit Safari Phu Quoc, the first wild animal park in Vietnam, a unique wildlife exploration destination that opens up an extremely new world before our eyes – a world so new that we wanted to explore it immediately upon encountering it, and of course, when leaving, the lingering attachment made us never want to leave.",
+    "imageCover": "phuquoc-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Lummus Park Beach",
+        "description": "Phu Quoc airport - Ham Ninh fishing village - Pepper farm - Phu Quoc night market",
         "type": "Point",
-        "coordinates": [-80.128473, 25.781842],
+        "coordinates": [103.988044, 10.215309],
         "day": 1
       },
       {
-        "_id": "5c88fa8cf4afda39709c2958",
-        "description": "Islamorada",
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Exploring the most beautiful island of Phu Quoc - Coral reef diving - Hon Thom cable car ",
         "type": "Point",
-        "coordinates": [-80.647885, 24.909047],
+        "coordinates": [103.988044, 10.215309],
         "day": 2
       },
       {
-        "_id": "5c88fa8cf4afda39709c2957",
-        "description": "Sombrero Beach",
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Tour the southern part of the island - Southern island coral reef diving - Night squid fishing",
         "type": "Point",
-        "coordinates": [-81.0784, 24.707496],
+        "coordinates": [103.988044, 10.215309],
         "day": 3
       },
       {
-        "_id": "5c88fa8cf4afda39709c2956",
-        "description": "West Key",
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Self-guided - return",
         "type": "Point",
-        "coordinates": [-81.768719, 24.552242],
-        "day": 5
+        "coordinates": [103.988044, 10.215309],
+        "day": 4
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Banff, CAN",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-115.570154, 51.178456],
-      "address": "224 Banff Ave, Banff, AB, Canada"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 5,
     "ratingsQuantity": 9,
-    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "images": ["halong-1.jpg", "halong-2.jpg", "halong-3.jpg"],
     "startDates": [
-      "2021-04-25T09:00:00.000Z",
+      "2021-06-19T09:00:00.000Z",
       "2021-07-20T09:00:00.000Z",
-      "2021-10-05T09:00:00.000Z"
+      "2021-08-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2951",
-    "name": "The Forest Hiker",
-    "duration": 5,
-    "maxGroupSize": 25,
+    "name": "Explore Ha Long",
+    "duration": 1,
+    "maxGroupSize": 15,
     "difficulty": "easy",
     "guides": [
       "5c8a21d02f8fb814b56fa189",
@@ -137,50 +81,36 @@
       "5c8a1f292f8fb814b56fa184"
     ],
     "price": 397,
-    "summary": "Breathtaking hike through the Canadian Banff National Park",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "imageCover": "tour-1-cover.jpg",
+    "summary": "Explore the largest cave in Halong Bay and admire hundreds of limestone islands.",
+    "description": "In addition to visiting and exploring the largest caves in Halong Bay, visitors will have the opportunity to admire hundreds of limestone islands, each with a distinct and vivid formation, such as the Human Head Islet, Dragon Islet, La Vong Islet, Sail Islet, Fighting Cock Islet, and Incense Burner Islet. These formations resemble natural castles, creating a truly otherworldly landscape.",
+    "imageCover": "halong-cover.jpg",
     "locations": [
       {
-        "_id": "5c88fa8cf4afda39709c2954",
-        "description": "Banff National Park",
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Thiên Cung Cave - Ba Hang Fishing Village",
         "type": "Point",
-        "coordinates": [-116.214531, 51.417611],
+        "coordinates": [103.988044, 10.215309],
         "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2953",
-        "description": "Jasper National Park",
-        "type": "Point",
-        "coordinates": [-118.076152, 52.875223],
-        "day": 3
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2952",
-        "description": "Glacier National Park of Canada",
-        "type": "Point",
-        "coordinates": [-117.490309, 51.261937],
-        "day": 5
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Aspen, USA",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-106.822318, 39.190872],
-      "address": "419 S Mill St, Aspen, CO 81611, USA"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 4.5,
     "ratingsQuantity": 6,
-    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "images": ["codohue-1.jpg", "codohue-2.jpg", "codohue-3.jpg"],
     "startDates": [
       "2022-01-05T10:00:00.000Z",
       "2022-02-12T10:00:00.000Z",
       "2023-01-06T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295a",
-    "name": "The Snow Adventurer",
+    "name": "Tour of the Ancient Capital of Hue",
     "duration": 4,
     "maxGroupSize": 10,
     "difficulty": "difficult",
@@ -190,44 +120,44 @@
       "5c8a1f4e2f8fb814b56fa185"
     ],
     "price": 997,
-    "summary": "Exciting adventure in the snow with snowboarding and skiing",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
-    "imageCover": "tour-3-cover.jpg",
+    "summary": "Explore the historical relics of the Nguyen Dynasty, the last feudal dynasty in Vietnamese history.",
+    "description": "Mentioning Hue brings to mind the ancient citadels of feudal kings, the serene natural landscape, and the gentle beauty of the local people. In Hue, there are numerous attractions to visit, from revered ancient pagodas like Thien Lam Pagoda and Tu Dam Pagoda, to ancient architectural marvels such as the Imperial City of Hue, the tomb of Tu Duc, the tomb of Minh Mang, and even beautiful beaches with white sands and turquoise waters like Lang Co Beach and Canh Duong Beach.",
+    "imageCover": "codohue-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c295c",
-        "description": "Aspen Highlands",
+        "description": "Phu Bai Airport - Explore the Imperial City of Hue",
         "type": "Point",
-        "coordinates": [-106.855385, 39.182677],
+        "coordinates": [103.988044, 10.215309],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295b",
-        "description": "Beaver Creek",
+        "description": "Visiting the Hue Imperial City - Forbidden Purple City",
         "type": "Point",
-        "coordinates": [-106.516623, 39.60499],
+        "coordinates": [103.988044, 10.215309],
         "day": 2
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Las Vegas, USA",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-115.172652, 36.110904],
-      "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 4.7,
     "ratingsQuantity": 7,
-    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "images": ["thanglong-1.jpg", "thanglong-2.jpg", "thanglong-3.jpg"],
     "startDates": [
       "2021-08-05T09:00:00.000Z",
       "2022-03-20T10:00:00.000Z",
       "2022-08-12T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2961",
-    "name": "The Park Camper",
-    "duration": 10,
+    "name": "Thăng Long Imperial Citadel Tour",
+    "duration": 7,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "guides": [
@@ -236,106 +166,99 @@
       "5c8a201e2f8fb814b56fa186"
     ],
     "price": 1497,
-    "summary": "Breathing in Nature in America's most spectacular National Parks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
-    "imageCover": "tour-5-cover.jpg",
+    "summary": "Explore the complex of historical relics associated with the formation and development of Hanoi, featuring many iconic architectural landmarks of the capital city.",
+    "description": "This tourist destination in Vietnam is always a must-visit when traveling to Hanoi, showcasing the unique 'triple gateways' architecture. It not only holds historical value with a series of valuable archaeological excavation sites, but also demonstrates a closely interconnected architectural ensemble, representing significant feudal periods of Vietnam such as the Ly, Tran, Le, and Mac dynasties. It is considered a rare and enduring heritage site with continuous historical significance.",
+    "imageCover": "thanglong-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2965",
-        "description": "Zion Canyon National Park",
+        "description": "Arranging for a tourist car to pick up - Visiting Đoan Môn Gate - Temple of Literature-Imperial Academy",
         "type": "Point",
-        "coordinates": [-112.987418, 37.198125],
+        "coordinates": [103.988044, 10.215309],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2964",
-        "description": "Antelope Canyon",
+        "description": "Visiting Hanoi Flag Tower - Cua Bac - Pick up and return by car",
         "type": "Point",
-        "coordinates": [-111.376161, 36.86438],
+        "coordinates": [103.988044, 10.215309],
         "day": 4
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2963",
-        "description": "Grand Canyon National Park",
-        "type": "Point",
-        "coordinates": [-112.115763, 36.058973],
-        "day": 5
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2962",
-        "description": "Joshua Tree National Park",
-        "type": "Point",
-        "coordinates": [-116.107963, 34.011646],
-        "day": 9
       }
     ]
   },
   {
     "startLocation": {
-      "description": "NYC, USA",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-73.985141, 40.75894],
-      "address": "Manhattan, NY 10036, USA"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 4.6,
     "ratingsQuantity": 5,
-    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "images": ["sondoong-1.jpg", "sondoong-2.jpg", "sondoong-3.jpg"],
     "startDates": [
       "2021-03-11T10:00:00.000Z",
       "2021-05-02T09:00:00.000Z",
       "2021-06-09T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295d",
-    "name": "The City Wanderer",
-    "duration": 9,
+    "name": "Son Doong Cave Exploration",
+    "duration": 5,
     "maxGroupSize": 20,
     "difficulty": "easy",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
     "price": 1197,
-    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
-    "imageCover": "tour-4-cover.jpg",
+    "summary": " Conquer the world's largest natural cave with ever-changing magnificent scenery and terrain.",
+    "description": "Son Doong Cave is the world's largest cave with a volume of 38.5 million cubic meters. Exploring Son Doong Cave is a journey into the depths of the earth to discover magnificent stalactite masterpieces, underground rivers, the Great Wall of Vietnam (a 90m high calcite wall), sinkholes, and even a fully-functioning subterranean jungle with unique flora and fauna. Visitors also have the opportunity to witness sunlight penetrating the cave and illuminating its vast chambers, adding to the awe-inspiring experience.",
+    "imageCover": "sondoong-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2960",
-        "description": "New York",
+        "description": "Dong Hoi Airport to Phong Nha",
         "type": "Point",
-        "coordinates": [-73.967696, 40.781821],
+        "coordinates": [105.850715, 21.028524],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295f",
-        "description": "Los Angeles",
+        "description": "Ban Doong Cave - En Cave",
         "type": "Point",
-        "coordinates": [-118.324396, 34.097984],
-        "day": 3
+        "coordinates": [105.850715, 21.028524],
+        "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c295e",
-        "description": "San Francisco",
+        "description": "Cave entrance - Hang En Campsite 1",
         "type": "Point",
-        "coordinates": [-122.408865, 37.787825],
-        "day": 5
+        "coordinates": [105.850715, 21.028524],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2950",
+        "description": "Chay Lap Farmstay to Dong Hoi",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 4
       }
     ]
   },
   {
     "startLocation": {
-      "description": "California, USA",
+      "description": "Ha Noi, VN",
       "type": "Point",
-      "coordinates": [-118.803461, 34.006072],
-      "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
     },
     "ratingsAverage": 3.9,
     "ratingsQuantity": 7,
-    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "images": ["sapa-1.jpg", "sapa-2.jpg", "sapa-3.jpg"],
     "startDates": [
       "2021-07-19T09:00:00.000Z",
       "2021-09-06T09:00:00.000Z",
       "2022-03-18T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2966",
-    "name": "The Sports Lover",
+    "name": "Northwest travel",
     "duration": 14,
     "maxGroupSize": 8,
     "difficulty": "difficult",
@@ -345,43 +268,36 @@
       "5c8a1f4e2f8fb814b56fa185"
     ],
     "price": 2997,
-    "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+    "summary": "Explore the mountainous landscapes of the Northwest and conquer the rooftop of Indochina",
     "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
-    "imageCover": "tour-6-cover.jpg",
+    "imageCover": "sapa-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c296b",
-        "description": "Point Dume Beach",
+        "description": "Ha Noi - Hoa Binh - Moc Chau",
         "type": "Point",
-        "coordinates": [-118.809361, 34.003098],
+        "coordinates": [105.850715, 21.028524],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c296a",
-        "description": "Venice Skate Park",
+        "description": "Dien Bien - Lai Chau",
         "type": "Point",
-        "coordinates": [-118.47549, 33.987367],
+        "coordinates": [105.850715, 21.028524],
         "day": 4
       },
       {
         "_id": "5c88fa8cf4afda39709c2969",
-        "description": "San Diego Skydive",
+        "description": "Lai Chau - Fansipan -  Sapa",
         "type": "Point",
-        "coordinates": [-116.830104, 33.022843],
-        "day": 6
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2968",
-        "description": "Kern River Rafting",
-        "type": "Point",
-        "coordinates": [-118.4547, 35.710359],
+        "coordinates": [105.850715, 21.028524],
         "day": 7
       },
       {
-        "_id": "5c88fa8cf4afda39709c2967",
-        "description": "Yosemite National Park",
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Sapa - Lao Cai - Ha Noi",
         "type": "Point",
-        "coordinates": [-119.600492, 37.742371],
+        "coordinates": [105.850715, 21.028524],
         "day": 10
       }
     ]
