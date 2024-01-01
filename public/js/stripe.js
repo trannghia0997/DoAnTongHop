@@ -24,3 +24,7 @@ export const bookTour = async tourId => {
     showAlert('error', err);
   }
 };
+
+document.getElementById('book-tour').addEventListener('click', e => {
+  console.log('1');
+});

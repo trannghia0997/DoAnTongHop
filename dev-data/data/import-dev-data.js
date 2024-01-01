@@ -4,6 +4,7 @@ const dotenv = require('dotenv');
 const Tour = require('./../../models/tourModel');
 const Review = require('./../../models/reviewModel');
 const User = require('./../../models/userModel');
+const Booking = require('./../../models/bookingModel');
 
 dotenv.config({ path: './config.env' });
 
@@ -23,6 +24,9 @@ const users = JSON.parse(fs.readFileSync(`${__dirname}/users.json`, 'utf-8'));
 const reviews = JSON.parse(
   fs.readFileSync(`${__dirname}/reviews.json`, 'utf-8')
 );
+const bookings = JSON.parse(
+  fs.readFileSync(`${__dirname}/bookings.json`, 'utf-8')
+);
 
 // IMPORT DATA INTO DB
 const importData = async () => {
@@ -30,6 +34,7 @@ const importData = async () => {
     await Tour.create(tours);
     await User.create(users);
     await Review.create(reviews);
+    await Booking.create(bookings);
     console.log('Data successfully loaded!');
   } catch (err) {
     console.log(err);
@@ -43,6 +48,7 @@ const deleteData = async () => {
     await Tour.deleteMany();
     await User.deleteMany();
     await Review.deleteMany();
+    await Booking.deleteMany();
     console.log('Data successfully deleted!');
   } catch (err) {
     console.log(err);

@@ -11,7 +11,7 @@ const loginForm = document.querySelector('.form--login');
 const logOutBtn = document.querySelector('.nav__el--logout');
 const userDataForm = document.querySelector('.form-user-data');
 const userPasswordForm = document.querySelector('.form-user-password');
-const bookBtn = document.getElementById('book-tour');
+// const bookBtn = document.getElementById('book-tour');
 
 // DELEGATION
 if (mapBox) {
@@ -61,6 +61,7 @@ if (userPasswordForm)
   });
 
 document.getElementById('book-tour').addEventListener('click', e => {
+  console.log('1');
   e.target.textContent = 'Processing...';
   const { tourId } = e.target.dataset;
   bookTour(tourId);
