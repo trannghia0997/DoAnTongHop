@@ -18,7 +18,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 # DoAnTongHop - BKTravel
 
-<img src="https://github.com/trannghia0997/DoAnTongHop/public/img/app.jpg" align="center" width=1200px/>
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/app.jpg" align="center" width=1200px/>
 
 Tạo tkhoan mongodb
 
