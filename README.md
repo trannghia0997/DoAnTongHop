@@ -18,7 +18,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 # DoAnTongHop - BKTravel
 
-**Homepage**
+_Homepage_
 
 <img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/app.jpg" align="center" width=1200px/>
 
@@ -52,9 +52,9 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 <img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment.jpeg" align="center" width=1200px/>
 
-<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(2).jpeg" align="center" width=1200px/>
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(2).png" align="center" width=1200px/>
 
-<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(3).jpeg" align="center" width=1200px/>
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(3).png" align="center" width=1200px/>
 
 ## Team members
 
