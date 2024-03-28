@@ -14,8 +14,6 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 **Đồ án CNPM / Semester 231**
 <br/>
 
-</div>
-
 # DoAnTongHop - BKTravel
 
 ## Team members
@@ -29,6 +27,8 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 |  5  | Võ Quang Phương      |  2112079   |
 |  6  | Phạm Anh Minh        |  2013782   |
 |  7  | Ngô Văn Phương       |  2112070   |
+
+</div>
 
 ## Homepage
 
