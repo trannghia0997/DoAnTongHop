@@ -18,7 +18,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 # DoAnTongHop - BKTravel
 
-_Homepage_
+**Homepage**
 
 <img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/app.jpg" align="center" width=1200px/>
 
@@ -60,8 +60,8 @@ _Homepage_
 
 | No. | Name                 | Student ID |
 | :-: | -------------------- | :--------: |
-|  1  | Trần Minh Nghĩa      |  2013878   |
-|  2  | Nguyễn Tiến Đăng     |  2011087   |
+|  1  | Nguyễn Tiến Đăng     |  2011087   |
+|  2  | Trần Minh Nghĩa      |  2013878   |
 |  3  | Nguyễn Viết Minh Tân |  2220022   |
 |  4  | Quách Trung Hào      |  2113290   |
 |  5  | Võ Quang Phương      |  2112079   |
