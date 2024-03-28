@@ -18,25 +18,43 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 # DoAnTongHop - BKTravel
 
+**Homepage**
+
 <img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/app.jpg" align="center" width=1200px/>
 
-Tạo tkhoan mongodb
+**SignUp/LogIn**
 
-Sử dụng Atlas
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/signup.jpeg" align="center" width=1200px/>
 
-tạo 1 project
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/SignIn.jpeg" align="center" width=1200px/>
 
-lấy link driver
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/SignInError.jpeg" align="center" width=1200px/>
 
-Thay link đó vào trong file config
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/SignInSuccess.jpeg" align="center" width=1200px/>
 
-Import data bằng câu lệnh
+**Setting/Update**
 
-node dev-data/data/import-dev-data.js --import
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Setting.jpeg" align="center" width=1200px/>
 
-npm i
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/UpdatePassword.jpeg" align="center" width=1200px/>
 
-npm start
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/UpdateSetting.jpeg" align="center" width=1200px/>
+
+**Tour Detail**
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/TourDetail.jpeg" align="center" width=1200px/>
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/TourDetail(2).jpeg" align="center" width=1200px/>
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/TourDetail(3).jpeg" align="center" width=1200px/>
+
+**Payment**
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment.jpeg" align="center" width=1200px/>
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(2).jpeg" align="center" width=1200px/>
+
+<img src="https://github.com/trannghia0997/DoAnTongHop/blob/main/public/img/Payment(3).jpeg" align="center" width=1200px/>
 
 ## Team members
 
